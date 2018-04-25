@@ -5,11 +5,11 @@ Round pixel social media icons for use on your website. Includes the following i
 <li>Anook</li>
 <li>Archive of Our Own</li>
 <li>deviantArt</li>
-<li>Discord</li>
 <li>Draw Crowd</li>
 <li>Email</li>
 <li>Facebook</li>
 <li>FitBit</li>
+<li>Forge</li>
 <li>FurAffinity</li>
 <li>Google+</li>
 <li>Instagram</li>
