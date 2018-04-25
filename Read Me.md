@@ -6,6 +6,6 @@ You do not have permission to use this icons in a commercial context! You may no
 
 Please do not repost these in a context that makes you look like the original creator. 
 
-If you’d like to edit or modify one of the images, just let me know. (I’m happy to grant permission, but I’d like to be made aware of the situation.)
+If youâ€™d like to edit or modify one of the images, just let me know. (Iâ€™m happy to grant permission, but Iâ€™d like to be made aware of the situation.)
 
 If you want to use them in a way that was not addressed above, just reach out to me (catawump@gmail.com) and I can answer any questions.
